@@ -1,0 +1,1 @@
+[{"model": "comment.comment", "pk": 1, "fields": {"content_type": 8, "object_id": 1, "text": "<p>\u5f88\u597d\uff0c\u5b66\u4e60\u4e86</p>", "comment_time": "2019-11-01T11:31:56.118Z", "user": 1, "root": null, "parent": null, "reply_to": null}}]
